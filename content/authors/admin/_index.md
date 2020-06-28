@@ -1,6 +1,6 @@
 ---
 title: Alexandre Candeias
-role: Data Scientist at Feedzai
+role: Data Scientist
 avatar_filename: foto_eu._cutted.jpg
 organizations:
   - name: Feedzai
