@@ -86,6 +86,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ## These details power the Contact widget (if enabled).
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
+email_form = 0
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
