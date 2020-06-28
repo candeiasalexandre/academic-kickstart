@@ -14,9 +14,6 @@ interests:
   - Computer Vision
   - Robotics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/alexmricandeias
